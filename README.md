@@ -5,9 +5,9 @@
 Benvenuto nel mio sito personale.  
 sono ancora in **working progress**.
 
-| Progetto 1 | YouTube |
+| Progetto.  | Link |
 |------------|---------|
-| [Progetto 1](https://www.google.com) | [YouTube](https://www.youtube.com) |
+| [NOTEBOOKLM](https://www.google.com) | [YouTube](https://www.youtube.com) |
 | [Progetto 2](https://www.github.com) | [Facebook](https://www.facebook.com) |
 | [Progetto 3](https://www.instagram.com) | [LinkedIn](https://www.linkedin.com) |
 | [Progetto 4](https://www.apple.com) | [Microsoft](https://www.microsoft.com) |
