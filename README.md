@@ -1,6 +1,6 @@
 <body style="background-color:#90EE90; padding: 40px; font-family: Arial, sans-serif;">
 
-![La mia foto](foto.jpeg)
+<img src="foto.jpeg" alt="La mia foto" style="width:150px; border-radius:10px;" />
 
 # Ciao, sono Miguel!
 
