@@ -5,8 +5,8 @@
 Benvenuto nel mio sito personale.  
 sono ancora in **working progress**.
 
-| Progetto 1 | YouTube | Wikipedia |
-|------------|---------|-----------|
+| Progetto 1 | YouTube |
+|------------|---------|
 | [Progetto 1](https://www.google.com) | [YouTube](https://www.youtube.com) |
 | [Progetto 2](https://www.github.com) | [Facebook](https://www.facebook.com) |
 | [Progetto 3](https://www.instagram.com) | [LinkedIn](https://www.linkedin.com) |
