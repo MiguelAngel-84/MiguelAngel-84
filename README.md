@@ -1,3 +1,5 @@
+<div style="background-color: #90EE90; padding: 20px; border-radius: 10px;">
+
 ![La mia foto](foto.jpeg)
 
 # Ciao, sono Miguel!
@@ -5,9 +7,11 @@
 Benvenuto nel mio sito personale.  
 sono ancora in **working progress**.
 
-| Progetto.  | Link |
+| Progetto  | Link |
 |------------|---------|
-| NOTEBOOKLM|[vai sul sito](https://notebooklm.google.com/?pli=1)
+| NOTEBOOKLM | [vai sul sito](https://notebooklm.google.com/?pli=1) |
+
+</div>
 <!--
 **MiguelAngel-84/MiguelAngel-84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
