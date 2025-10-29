@@ -67,38 +67,16 @@ Ogni livello:
 ---
 
 ## 📊 Schema visuale dei livelli
-+————————————+
-| 4. Applicazione (HTTP, FTP, DNS)   |
-+————————————+
-| 3. Trasporto (TCP, UDP)            |
-+————————————+
-| 2. Internet (IP, ICMP, ARP)        |
-+————————————+
-| 1. Accesso rete (Ethernet, Wi-Fi)  |
-+————————————+
+| 7. Applicazione             |
 
----
+| 6. Presentazione            |
 
-## 🧩 Relazione tra OSI e TCP/IP
+| 5. Sessione                 |
 
-| Modello OSI | Modello TCP/IP | Funzione |
-|--------------|----------------|-----------|
-| 7. Applicazione | 4. Applicazione | Interfaccia con l’utente e i servizi Internet |
-| 6. Presentazione | 4. Applicazione | Conversione e formattazione dei dati |
-| 5. Sessione | 4. Applicazione | Gestione delle connessioni |
-| 4. Trasporto | 3. Trasporto | Controllo dei pacchetti (TCP/UDP) |
-| 3. Rete | 2. Internet | Indirizzamento e routing |
-| 2. Collegamento dati | 1. Accesso rete | Connessione fisica tra dispositivi |
-| 1. Fisico | 1. Accesso rete | Trasmissione dei bit su cavi o onde |
+| 4. Trasporto (TCP/UDP)      |
 
----
+| 3. Rete (IP, router)        |
 
-## 📬 Esempio pratico: visita a un sito web
+| 2. Collegamento dati        |
 
-1. **Applicazione** → scrivi “www.google.com” nel browser.  
-2. **Trasporto** → TCP prepara e numera i pacchetti.  
-3. **Internet** → IP decide il percorso dei pacchetti fino ai server Google.  
-4. **Accesso rete** → il segnale viaggia via Wi-Fi o cavo Ethernet.  
-5. Google risponde → i pacchetti tornano indietro, TCP li ricompone e il browser mostra la pagina.
-
----
+| 1. Fisico (cavi, Wi-Fi)     |
